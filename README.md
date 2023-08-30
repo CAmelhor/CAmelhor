@@ -20,4 +20,3 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=camelhor&show_icons=true&locale=en" alt="camelhor" /></p>
 
-<p><img align="leftr" src="https://github-readme-streak-stats.herokuapp.com/?user=camelhor&" alt="camelhor" /></p>
