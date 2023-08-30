@@ -1,7 +1,7 @@
 <h1 align="center">Hei, Olen Abdulmalik Abukar</h1>
 <h3 align="center">Web devaaja</h3>
 
-(img align="right" alt="Coding" width="400" src=https://img1.picmix.com/output/stamp/normal/0/8/6/6/1606680_17c93.gif")
+img align="right" alt="Coding" width="400" src=https://img1.picmix.com/output/stamp/normal/0/8/6/6/1606680_17c93.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camelhor&label=Profile%20views&color=0e75b6&style=flat" alt="camelhor" /> </p>
 
