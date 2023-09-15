@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camelhor&label=Profile%20views&color=0e75b6&style=flat" alt="camelhor" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m  student of **Life**
 
 - 📫 How to reach me **abdulmalikmelhor@gmail.com**
 
